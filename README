@@ -1,0 +1,10 @@
+#Butilca Rares
+
+Interpolation functions that can be used on RGB or Grayscale images for resizing or rotation.
+The images are represented as matrices of pixels(each pixel having 1 value for grayscale and 3
+for RGB).
+
+The types of interpolations used:
+nearest-neighbour(nn): https://en.wikipedia.org/wiki/Nearest-neighbor_interpolation
+bilinear: https://en.wikipedia.org/wiki/Bilinear_interpolation
+bicubic: https://en.wikipedia.org/wiki/Bicubic_interpolation
