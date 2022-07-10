@@ -4,6 +4,8 @@ Interpolation functions that can be used on RGB or Grayscale images for resizing
 The images are represented as matrices of pixels(each pixel having 1 value for grayscale and 3
 for RGB).
 
+Language: Octave
+
 The types of interpolations used:
 nearest-neighbour(nn): https://en.wikipedia.org/wiki/Nearest-neighbor_interpolation
 bilinear: https://en.wikipedia.org/wiki/Bilinear_interpolation
